@@ -2,4 +2,9 @@ first line
 second line
 third line
 fourth commit
-5th line
+<<<<<<< HEAD
+fifth line
+=======
+fifth line
+
+>>>>>>> dev
